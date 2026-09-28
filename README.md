@@ -31,6 +31,9 @@ A modular Python game project built to strengthen my understanding of object-ori
 ### 🔍 Python Search Engine
 A search engine project built to explore data structures, indexing, and application development in Python.
 
+### 🖥️ Client Log App
+An full-stack internal app being developed for my company to use to keep track of our clients and where they are in the registration process. This app will help centralize and improve our workflow.
+
 ## 🎯 Current Goals
 
 - Build stronger hands-on networking experience
