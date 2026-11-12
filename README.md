@@ -2,7 +2,7 @@
 
 I'm a Cybersecurity student and CompTIA Security+ certified IT professional currently working as an operations and IT support while completing my B.S. in Cybersecurity with a growing focus on networking, infrastructure, and security.
 
-I enjoy building hands-on projects that help me better understand how systems, networks, and software work. I'm currently developing my skills through Python projects, networking labs, Linux, and cybersecurity labs.
+I enjoy building hands-on projects that help me better understand how systems, networks, and software work. I'm currently developing my skills through Python projects, networking labs, Linux, and cybersecurity labs. I am also exploring systems programming with
 
 ## 🔧 Currently Working On
 
@@ -11,13 +11,15 @@ I enjoy building hands-on projects that help me better understand how systems, n
 - 🐧 Linux administration and command-line skills
 - 🛡️ Cybersecurity labs and security fundamentals
 - ⚡️ Javascript programming
+- ⚙️ Rust programming
+- ⚙️ Systems programming
 
 ## 🧰 Technologies & Tools
 
 **Networking:** TCP/IP, Subnetting, VLANs, DHCP, NAT, Cisco Packet Tracer  
 **Security:** CompTIA Security+, Wireshark, Nmap, Hack The Box  
 **Systems:** Linux, Windows, WSL, VirtualBox, MacOS  
-**Programming:** Python, Javascript, Bash, SQL 
+**Programming:** Python, Javascript, Bash, SQL, Rust
 **Tools:** Git, GitHub, Docker
 
 ## 🚀 Featured Projects
